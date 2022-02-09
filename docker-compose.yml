@@ -1,0 +1,13 @@
+version: "3.3"
+
+services:
+    'muse-app-wiki':
+        container_name: 'muse-app-wiki'
+        image: 'muse-app-wiki'
+        build:
+            context: .
+            dockerfile: Dockerfile
+        restart: always
+        ports:
+            - "80:8080"
+
