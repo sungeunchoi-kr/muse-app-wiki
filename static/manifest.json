@@ -65,12 +65,6 @@
                     "versions": ["v1.3.4"]
                 },
                 {
-                    "title": "Hear an echo?",
-                    "url": "hear-an-echo",
-                    "os": ["darwin", "win32"],
-                    "versions": ["v1.3.4"]
-                },
-                {
                     "title": "Can't hear audio when using Muse Audio Share?",
                     "url": "cant-hear-audio-when-using-muse-audio-share",
                     "os": ["darwin"],

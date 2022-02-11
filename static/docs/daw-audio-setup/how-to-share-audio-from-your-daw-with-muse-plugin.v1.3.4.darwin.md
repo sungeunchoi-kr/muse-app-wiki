@@ -1,25 +1,19 @@
-1\. Select Muse Audio Share (System Audio) below or from Muse’s Overview or Audio settings.
+If your DAW is compatible with VST3 or AU plugins, you can easily share DAW audio with the Muse Plugin.
+Just add the plugin to the Master track in your DAW and Muse takes care of the rest.
 
-!!MuseSystemAudioDeviceButton
+1\. Add the Muse Plugin to the master track in your DAW 
 
-Once properly shared, you will see Muse Audio Share in the Sidebar input list.
+![updated-muse-plugin-tutorial-combo](https://user-images.githubusercontent.com/7818811/152599295-9994f60d-b403-4aaa-930c-839a1d694b24.gif)
 
+Once properly shared, you will see Muse DAW Bridge in the Sidebar input list
 
-![muse-sidebar-loopback-on](https://user-images.githubusercontent.com/7818811/139191456-d3b45078-4e17-4cac-aa7d-3ab0ad7ffe5d.gif)
+![muse-daw-bridge-tutorial](https://user-images.githubusercontent.com/7818811/149384153-0513c7ae-7083-4582-89d5-d4c65eb5ca51.gif)
 
-2\. Set Muse Audio Share as your computer's audio output.
+If you added the Muse Plugin to the master track but Muse DAW Bridge doesn't show in the Sidebar input list, you can manually enable Muse DAW Bridge in Muse's Audio settings.
 
-You can do this in your computer's audio settings or by clicking the speaker icon at the top right of your desktop
+![muse-daw-bridge-on](https://user-images.githubusercontent.com/7818811/149384142-a6ab17b6-2ace-4a29-a266-a2c5aa2d82c0.png)
 
-![muse-share-audio](https://user-images.githubusercontent.com/7818811/140007753-0932f235-e555-4a06-99dd-72d8118dcde2.gif)
+NOTE: The Muse Plugin is only available in VST3 and AU. In order to use the plugin, your DAW needs to be compatible with VST3 or AU. The plugin is installed in Library/Audio/Plug-Ins/Components
 
-![share-audio-4](https://user-images.githubusercontent.com/7818811/139195545-e2786037-1e87-439c-aea4-fdf846957759.png)
-
-
-NOTE: when using Muse Audio Share, Local Loopback should be ENABLED so that you can also hear the audio. Local Loopback should only be disabled when using Muse Multi-Output.
-
-To manually enable or disable Local Loopback, open Muse settings, click the Audio tab, click “disable automatic loopback management” and click the switch next to Muse Audio Share to toggle loopback on or off 
-
-![loopback](https://user-images.githubusercontent.com/7818811/138991820-7c99c3fa-2ca3-4348-9292-c626123e2794.png)
 
 Need more help? [Contact us!](https://www.musesessions.co/contact)
