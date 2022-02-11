@@ -1,5 +1,4 @@
-### 1. Select Muse Audio Share
-Select Muse Audio Share (System Audio) below or from Muse’s Overview or Audio settings.
+1\. Select Muse Audio Share (System Audio) below or from Muse’s Overview or Audio settings.
 
 !!MuseSystemAudioDeviceButton
 
@@ -8,7 +7,7 @@ Once properly shared, you will see Muse Audio Share in the Sidebar input list.
 
 ![muse-sidebar-loopback-on](https://user-images.githubusercontent.com/7818811/139191456-d3b45078-4e17-4cac-aa7d-3ab0ad7ffe5d.gif)
 
-### 2. Set Muse Audio Share as your computer's audio output.
+2\. Set Muse Audio Share as your computer's audio output.
 
 You can do this in your computer's audio settings or by clicking the speaker icon at the top right of your desktop
 

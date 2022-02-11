@@ -4,10 +4,10 @@
 
 !!MuseSystemAudioDeviceButton
 
-3\. Select CABLE Input (VB-Audio Virtual Cable) as your DAW’s audio output
+3\. Select CABLE Input (VB-Audio Virtual Cable) as your computer’s audio output
 
-![muse-windows-share-daw-audio](https://user-images.githubusercontent.com/7818811/139195542-ed38a20e-ee1d-479a-967c-bac1fe000812.gif)
+![windows-pic-1](https://user-images.githubusercontent.com/7818811/139192225-6833c5ef-5c9c-45b4-a2f3-1455f6ee80f7.png)
 
-Now that you’re properly set up you should be able to share audio from anywhere on your computer with the session.
+Now that you’re properly set up you should be able to share audio from anywhere on your computer with the session
 
 Need more help? [Contact us!](https://www.musesessions.co/contact)

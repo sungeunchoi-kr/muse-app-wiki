@@ -11,10 +11,28 @@
                     "lastValidVersion": "v1.3.4"
                 },
                 {
+                    "title": "How to share audio from your DAW with the Muse Plugin",
+                    "url": "how-to-share-audio-from-your-daw-with-muse-plugin",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
                     "title": "How to share audio from your DAW",
                     "url": "how-to-share-audio-from-your-daw",
                     "os": ["darwin", "win32"],
-                    "versions": ["v0.0.0", "v1.3.4"]
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "How to share audio from your computer",
+                    "url": "how-to-share-audio-from-your-computer",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "How to share audio from your DAW with Muse Multi Output",
+                    "url": "how-to-share-audio-from-your-daw-with-muse-multi-output",
+                    "os": ["darwin"],
+                    "versions": ["v1.3.4"]
                 }
             ]
         },
@@ -25,7 +43,44 @@
                 {
                     "title": "Hear an echo?",
                     "url": "hear-an-echo",
-                    "versions": ["v0.0.0"]
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "Audio only coming from one speaker?",
+                    "url": "audio-only-coming-from-one-speaker",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "Can't hear audio from the Muse Plugin?",
+                    "url": "cant-hear-audio-from-muse-plugin",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "Distorted audio quality?",
+                    "url": "distorted-audio-quality",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "Hear an echo?",
+                    "url": "hear-an-echo",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "Can't hear audio when using Muse Audio Share?",
+                    "url": "cant-hear-audio-when-using-muse-audio-share",
+                    "os": ["darwin"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "Can't hear audio when using VB Cable?",
+                    "url": "cant-hear-audio-when-using-vb-cable",
+                    "os": ["win32"],
+                    "versions": ["v1.3.4"]
                 }
             ]
         }

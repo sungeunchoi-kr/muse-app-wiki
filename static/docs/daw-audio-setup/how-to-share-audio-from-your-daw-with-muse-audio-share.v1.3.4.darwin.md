@@ -1,20 +1,16 @@
-### 1. Select Muse Audio Share
-Select Muse Audio Share (System Audio) below or from Muse’s Overview or Audio settings.
+If your DAW isn't compatible with the Muse Plugin, you can use Muse Audio Share or a Multi-Output device to share audio from your DAW.
+
+1\. Select Muse Audio Share (System Audio) below or from Muse’s Overview or Audio settings. 
 
 !!MuseSystemAudioDeviceButton
 
-Once properly shared, you will see Muse Audio Share in the Sidebar input list.
-
+Once properly shared, you will see Muse Audio Share in the Sidebar input list
 
 ![muse-sidebar-loopback-on](https://user-images.githubusercontent.com/7818811/139191456-d3b45078-4e17-4cac-aa7d-3ab0ad7ffe5d.gif)
 
-### 2. Set Muse Audio Share as your computer's audio output.
+2\. Set Muse Audio Share as your DAW's audio output
 
-You can do this in your computer's audio settings or by clicking the speaker icon at the top right of your desktop
-
-![muse-share-audio](https://user-images.githubusercontent.com/7818811/140007753-0932f235-e555-4a06-99dd-72d8118dcde2.gif)
-
-![share-audio-4](https://user-images.githubusercontent.com/7818811/139195545-e2786037-1e87-439c-aea4-fdf846957759.png)
+![muse-daw-1](https://user-images.githubusercontent.com/7818811/139195538-1300d77b-805a-459a-b324-9e1552346260.gif)
 
 
 NOTE: when using Muse Audio Share, Local Loopback should be ENABLED so that you can also hear the audio. Local Loopback should only be disabled when using Muse Multi-Output.
