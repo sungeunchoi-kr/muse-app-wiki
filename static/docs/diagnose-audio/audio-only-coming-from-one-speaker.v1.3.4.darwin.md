@@ -3,7 +3,7 @@ By default, Muse shares channels 1 & 2 in stereo from multi-channel devices.
 
 To fix the problem, go to Muse's Audio Settings and switch the device to MONO.
 
-<img width="1012" alt="MONO" src="https://user-images.githubusercontent.com/7818811/152437376-f6ed80f9-1e54-4ee5-8bdf-7aeafe193831.png">
+![MONO](https://user-images.githubusercontent.com/7818811/152437376-f6ed80f9-1e54-4ee5-8bdf-7aeafe193831.png)
 
 NOTE: Currently there is no way to select a specific channel to share from your device. In the future we will expand to allow this.
 

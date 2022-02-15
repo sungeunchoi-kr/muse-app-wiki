@@ -16,7 +16,7 @@ Open Audio MIDI Setup by clicking the link below or by navigating to the app in 
 
 !!MacAudioMidiSetup
 
-<img width="830" alt="MUSE AUDIO SHARE AUDIO MIDI" src="https://user-images.githubusercontent.com/7818811/152437390-9baaa2c6-752e-494f-88aa-c7eee138a305.png">
+![MUSE AUDIO SHARE AUDIO MIDI](https://user-images.githubusercontent.com/7818811/152437390-9baaa2c6-752e-494f-88aa-c7eee138a305.png)
 
 If the volume is up and you still can’t hear anything from Muse Audio share, make sure Muse Audio Share is selected as the output for the device or app you’re trying to share audio from.
 
