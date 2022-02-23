@@ -1,4 +1,4 @@
-There can be a few reasons why you can’t hear audio from VB Cable.
+There can be a few reasons why you don't hear audio from VB Cable.
 
 {{"class": "collapse", "title": "1. Others can hear audio from VB Cable but I can't hear it myself"}}
 Make sure Local Loopback is ENABLED for VB Cable.

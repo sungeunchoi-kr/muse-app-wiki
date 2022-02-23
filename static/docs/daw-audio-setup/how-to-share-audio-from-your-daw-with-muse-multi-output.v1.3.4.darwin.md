@@ -49,20 +49,10 @@ NOTE: If you do NOT intend on playing audio through the computer's built-in outp
 
 4\. Disable Local Loopback in Muse Audio Settings
 
-If you want Muse to automatically configure Local Loopback, open Audio MIDI Setup, right click Muse Multi-Output in the list to the left, and select "Use This Device For Sound Output"
+Local Loopback should be DISABLED when using Muse Multi-Output. This will prevent an echo. You can do this in Muse's Audio Settings or by clicking the LB button next to your device so it turns grey.
 
-![multi-output7](https://user-images.githubusercontent.com/7818811/138998708-a88439f3-a610-4d05-8963-ad980e2eec1a.png)
 
-Local Loopback should be DISABLED when using Muse Multi-Output. This will prevent an echo.
-If Muse is automatically configuring Local Loopback, you will see that Local Loopback is DISABLED under Muse Audio Share in the Sidebar input list
-
-![muse-sidebar-loopback-off](https://user-images.githubusercontent.com/7818811/139191453-c60c4e9c-4e0a-4a77-95ac-b27929750109.gif)
-
-If Local Loopback is still enabled, you will need to manually disable it.
-
-To manually enable or disable Local Loopback, open Muse settings, click the Audio tab, click “disable automatic loopback management” and click the switch next to Muse Audio Share to toggle loopback on or off.
-
-![loopback-off](https://user-images.githubusercontent.com/7818811/139194307-f2ab2849-4db3-425b-a11c-dd71153df483.png)
+![LOOPBACK-OFF](https://user-images.githubusercontent.com/7818811/152443179-696f0209-81e1-4b8e-9c04-8a72150af298.gif)
 
 
 5\. Select Muse Multi-Output as your DAW's audio output 

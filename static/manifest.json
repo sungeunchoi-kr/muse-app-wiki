@@ -17,14 +17,8 @@
                     "versions": ["v1.3.4"]
                 },
                 {
-                    "title": "How to share audio from your DAW",
+                    "title": "How to share audio from your DAW with Muse Audio Share",
                     "url": "how-to-share-audio-from-your-daw",
-                    "os": ["darwin", "win32"],
-                    "versions": ["v1.3.4"]
-                },
-                {
-                    "title": "How to share audio from your computer",
-                    "url": "how-to-share-audio-from-your-computer",
                     "os": ["darwin", "win32"],
                     "versions": ["v1.3.4"]
                 },
@@ -33,11 +27,17 @@
                     "url": "how-to-share-audio-from-your-daw-with-muse-multi-output",
                     "os": ["darwin"],
                     "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "How to share audio from your computer",
+                    "url": "how-to-share-audio-from-your-computer",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
                 }
             ]
         },
         {
-            "categoryTitle": "Diagnose Audio",
+            "categoryTitle": "Troubleshoot Audio",
             "categoryUrl": "diagnose-audio",
             "listing": [
                 {

@@ -1,4 +1,4 @@
-There can be a few reasons why you can’t hear audio from Muse Audio Share.
+There can be a few reasons why you don't hear audio from Muse Audio Share.
 
 {{"class": "collapse", "title": "1. Others can hear audio from Muse Audio Share but I can't hear it myself"}}
 Make sure Local Loopback is ENABLED for Muse Audio Share.

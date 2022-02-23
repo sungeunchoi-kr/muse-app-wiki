@@ -5,6 +5,8 @@ Make sure VB Cable is showing in the sidebar. If it's not visible in the sidebar
 
 !!MuseSystemAudioDeviceButton
 
+![cable sidebar](https://user-images.githubusercontent.com/7818811/152461021-f7750fc3-744b-4f53-a927-4175df8b012a.png)
+
 If the plugin status is GOOD and VB Cable is shared in the sidebar, check that the volume of VB Cable is turned up all the way and that it isn't muted in your computer's audio settings. 
 
 ![cable audio up](https://user-images.githubusercontent.com/7818811/152457896-59fa31df-c778-4e6e-a567-ea7d2145928a.png)

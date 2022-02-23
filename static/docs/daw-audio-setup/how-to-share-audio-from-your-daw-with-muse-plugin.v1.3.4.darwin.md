@@ -11,7 +11,7 @@ Once properly shared, you will see Muse DAW Bridge in the Sidebar input list
 
 If you added the Muse Plugin to the master track but Muse DAW Bridge doesn't show in the Sidebar input list, you can manually enable Muse DAW Bridge in Muse's Audio settings.
 
-![muse-daw-bridge-on](https://user-images.githubusercontent.com/7818811/149384142-a6ab17b6-2ace-4a29-a266-a2c5aa2d82c0.png)
+![DAW-BRIDGE](https://user-images.githubusercontent.com/7818811/152443167-9d4eeda5-4f16-49a4-80d6-90be684c1c58.gif)
 
 NOTE: The Muse Plugin is only available in VST3 and AU. In order to use the plugin, your DAW needs to be compatible with VST3 or AU. The plugin is installed in Library/Audio/Plug-Ins/Components
 
