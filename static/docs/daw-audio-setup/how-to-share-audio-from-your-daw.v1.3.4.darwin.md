@@ -7,7 +7,8 @@ If your DAW isn't compatible with the Muse Plugin, you can use Muse Audio Share 
 Once properly shared, you will see Muse Audio Share in the Sidebar input list.
 
 
-![muse-sidebar-loopback-on](https://user-images.githubusercontent.com/7818811/139191456-d3b45078-4e17-4cac-aa7d-3ab0ad7ffe5d.gif)
+![MUSE-AUDIO-SHARE](https://user-images.githubusercontent.com/7818811/155610707-dac411ff-e568-4a70-95f8-deb2a1210093.gif)
+
 
 ### 2. Set Muse Audio Share as your DAW's audio output
 
