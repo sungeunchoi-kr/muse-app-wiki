@@ -19,7 +19,13 @@
                 {
                     "title": "How to share audio from your DAW with Muse Audio Share",
                     "url": "how-to-share-audio-from-your-daw",
-                    "os": ["darwin", "win32"],
+                    "os": ["darwin"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "How to share audio from your DAW with VB Audio Cable",
+                    "url": "how-to-share-audio-from-your-daw",
+                    "os": ["win32"],
                     "versions": ["v1.3.4"]
                 },
                 {
