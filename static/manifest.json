@@ -83,6 +83,42 @@
                     "versions": ["v1.3.4"]
                 }
             ]
+        },
+        {
+            "categoryTitle": "Video Tutorials",
+            "categoryUrl": "video-tutorials",
+            "listing": [
+                {
+                    "title": "How to Record Audio into your DAW",
+                    "url": "how-to-record-audio-into-your-daw",
+                    "os": ["darwin"],
+                    "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "General Overview",
+                    "url": "general-overview",
+                    "os": ["darwin"],
+                    "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "Feature Overview",
+                    "url": "feature-overview",
+                    "os": ["darwin"],
+                    "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "Windows Overview",
+                    "url": "windows-overview",
+                    "os": ["win32"],
+                    "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "How to Share DAW Audio With the Muse Plugin",
+                    "url": "how-to-share-daw-audio-with-the-muse-plugin",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.7"]
+                }
+            ]
         }
     ]
 }
