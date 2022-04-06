@@ -2,7 +2,7 @@ Additional setup is required before you can record audio directly into your DAW.
 
 1\. Create a Mackie Control Surface device in your DAW 
 
-[video](https://www.youtube.com/watch?v=8EnY17wy3Vg&t=152s)
+[video](https://www.youtube.com/embed/8EnY17wy3Vg?start=152)
 
 
 Set Muse DAW Controller as the input for the control surface, and enable the device to be used in your DAW. Once properly setup, Muse will use this device to start the recording process in your DAW when you start recording on Muse.
@@ -11,7 +11,7 @@ NOTE: If you're using a DAW that has key-repeat enabled, make sure key-repeat is
 
 2\. Set Muse Recording as the Input in your DAW (if recording someone else)
 
-[video](https://www.youtube.com/watch?v=8EnY17wy3Vg&t=133s)
+[video](https://www.youtube.com/embed/8EnY17wy3Vg?start=133)
  
 If you are recording audio from Muse into your DAW, you'll need to set the Muse Recording device as the input in your DAW. Audio from Muse will pass through Muse Recording. If you are the one being recorded, you can skip this step.
 
@@ -19,7 +19,7 @@ NOTE: It will take a few seconds before audio begins playing from Muse Recording
 
 3\. Configure your Recording Settings in Muse
 
-[video](https://www.youtube.com/watch?v=8EnY17wy3Vg&t=199s)
+[video](https://www.youtube.com/embed/8EnY17wy3Vg?start=199)
 
 The recording settings in Muse should match the project settings in your DAW so Muse can compensate for additional latency.
 
