@@ -11,25 +11,25 @@
                     "lastValidVersion": "v1.3.4"
                 },
                 {
-                    "title": "How to share audio from your DAW with the Muse Plugin",
+                    "title": "Use the Muse Plugin to share DAW Audio (recommended)",
                     "url": "how-to-share-audio-from-your-daw-with-muse-plugin",
                     "os": ["darwin", "win32"],
                     "versions": ["v1.3.4"]
                 },
                 {
-                    "title": "How to share audio from your DAW with Muse Audio Share",
+                    "title": "Use Muse Audio Share to share DAW Audio",
                     "url": "how-to-share-audio-from-your-daw",
                     "os": ["darwin"],
                     "versions": ["v1.3.4"]
                 },
                 {
-                    "title": "How to share audio from your DAW with VB Audio Cable",
+                    "title": "Use VB Audio Cable to share DAW Audio",
                     "url": "how-to-share-audio-from-your-daw",
                     "os": ["win32"],
                     "versions": ["v1.3.4"]
                 },
                 {
-                    "title": "How to share audio from your DAW with Muse Multi Output",
+                    "title": "Use a Multi-Output device to share DAW Audio",
                     "url": "how-to-share-audio-from-your-daw-with-muse-multi-output",
                     "os": ["darwin"],
                     "versions": ["v1.3.4"]
