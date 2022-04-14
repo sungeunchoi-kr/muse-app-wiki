@@ -89,6 +89,12 @@
             "categoryUrl": "video-tutorials",
             "listing": [
                 {
+                    "title": "Quick Setup Guide",
+                    "url": "quick-setup-guide",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.4.1"]
+                },
+                {
                     "title": "How to Record Audio into your DAW",
                     "url": "how-to-record-audio-into-your-daw",
                     "os": ["darwin"],
@@ -111,6 +117,18 @@
                     "url": "windows-overview",
                     "os": ["win32"],
                     "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "Windows MIDI Setup",
+                    "url": "windows-midi-setup",
+                    "os": ["win32"],
+                    "versions": ["v1.4.1"]
+                },
+                {
+                    "title": "How to Record Audio on Windows",
+                    "url": "how-to-record-audio-on-windows",
+                    "os": ["win32"],
+                    "versions": ["v1.4.1"]
                 },
                 {
                     "title": "How to Share DAW Audio With the Muse Plugin",
