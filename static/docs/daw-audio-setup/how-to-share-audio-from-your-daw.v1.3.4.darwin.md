@@ -1,4 +1,4 @@
-If your DAW isn't compatible with the Muse Plugin, you can use Muse Audio Share to share audio from your DAW. Using Muse Audio Share requires less setup, but you might hear a slight playback delay. To share audio without a delay, use a Multi-Output device.
+If your DAW isn't compatible with the Muse Plugin, you can use Muse Audio Share to share audio from your DAW. Using Muse Audio Share requires less setup, but you might hear a slight playback delay. To share audio without a delay, use a [Multi-Output device](museapp://tutorials/daw-audio-setup/how-to-share-audio-from-your-daw-with-muse-multi-output).
 
 ### 1. Select Muse Audio Share (System Audio) below or from Muse’s Overview or Audio settings.
 

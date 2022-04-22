@@ -33,12 +33,6 @@
                     "url": "how-to-share-audio-from-your-daw-with-muse-multi-output",
                     "os": ["darwin"],
                     "versions": ["v1.3.4"]
-                },
-                {
-                    "title": "How to share audio from your computer",
-                    "url": "how-to-share-audio-from-your-computer",
-                    "os": ["darwin", "win32"],
-                    "versions": ["v1.3.4"]
                 }
             ]
         },
@@ -85,6 +79,58 @@
             ]
         },
         {
+            "categoryTitle": "Feature Tutorials",
+            "categoryUrl": "feature-tutorials",
+            "listing": [
+                {
+                    "title": "How to share audio from your computer",
+                    "url": "how-to-share-audio-from-your-computer",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.4"]
+                },
+                {
+                    "title": "How to Share DAW Audio With the Muse Plugin",
+                    "url": "how-to-share-daw-audio-with-the-muse-plugin",
+                    "os": ["darwin", "win32"],
+                    "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "How to Record Audio into your DAW",
+                    "url": "how-to-record-audio-into-your-daw",
+                    "os": ["darwin"],
+                    "versions": ["v1.3.7"]
+                },
+                {
+                    "title": "Mac MIDI Setup",
+                    "url": "mac-midi-setup",
+                    "os": ["darwin"],
+                    "versions": ["v1.4.0"]
+                },
+                {
+                    "title": "How to Record Audio on Windows",
+                    "url": "how-to-record-audio-on-windows",
+                    "os": ["win32"],
+                    "versions": ["v1.4.1"]
+                },
+                {
+                    "title": "Windows MIDI Setup",
+                    "url": "windows-midi-setup",
+                    "os": ["win32"],
+                    "versions": ["v1.4.1"]
+                },
+                {
+                    "title": "Screen Sharing & Screen Control",
+                    "url": "screen-sharing-and-screen-control",
+                    "versions": ["v1.4.0"]
+                },
+                {
+                    "title": "File Sharing and Chatbox",
+                    "url": "file-sharing-and-chatbox",
+                    "versions": ["v1.4.0"]
+                }
+            ]
+        },
+        {
             "categoryTitle": "Video Tutorials",
             "categoryUrl": "video-tutorials",
             "listing": [
@@ -93,12 +139,6 @@
                     "url": "quick-setup-guide",
                     "os": ["darwin", "win32"],
                     "versions": ["v1.4.1"]
-                },
-                {
-                    "title": "How to Record Audio into your DAW",
-                    "url": "how-to-record-audio-into-your-daw",
-                    "os": ["darwin"],
-                    "versions": ["v1.3.7"]
                 },
                 {
                     "title": "General Overview",
@@ -116,24 +156,6 @@
                     "title": "Windows Overview",
                     "url": "windows-overview",
                     "os": ["win32"],
-                    "versions": ["v1.3.7"]
-                },
-                {
-                    "title": "Windows MIDI Setup",
-                    "url": "windows-midi-setup",
-                    "os": ["win32"],
-                    "versions": ["v1.4.1"]
-                },
-                {
-                    "title": "How to Record Audio on Windows",
-                    "url": "how-to-record-audio-on-windows",
-                    "os": ["win32"],
-                    "versions": ["v1.4.1"]
-                },
-                {
-                    "title": "How to Share DAW Audio With the Muse Plugin",
-                    "url": "how-to-share-daw-audio-with-the-muse-plugin",
-                    "os": ["darwin", "win32"],
                     "versions": ["v1.3.7"]
                 }
             ]

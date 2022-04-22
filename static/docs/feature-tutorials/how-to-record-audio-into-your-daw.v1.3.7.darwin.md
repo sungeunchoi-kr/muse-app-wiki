@@ -1,3 +1,5 @@
+By default, Muse saves recorded audio to a file on your computer. You can change recording settings and enable real-time DAW recording in [Recording Settings](museapp://session-settings/recording)
+
 Additional setup is required before you can record audio directly into your DAW. We recommend you follow our [Audio Recording Tutorial](https://www.youtube.com/watch?v=8EnY17wy3Vg) or you can follow the tutorial below.
 
 1\. Create a Mackie Control Surface device in your DAW 
