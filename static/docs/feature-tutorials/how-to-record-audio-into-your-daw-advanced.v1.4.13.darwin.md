@@ -4,7 +4,7 @@ Advanced recording can reduce recording latency and Muse will begin the recordin
 
 ## 1\. Enable Advanced Recording
 
-<img width="898" alt="advanced-recording" src="https://user-images.githubusercontent.com/7818811/192378225-9f2d0391-36dd-49dc-92db-2b1c7034b125.png">
+![advanced-recording](https://user-images.githubusercontent.com/7818811/192378225-9f2d0391-36dd-49dc-92db-2b1c7034b125.png)
 
 ## 2\. Create a Mackie Control Surface device in your DAW 
 
@@ -25,7 +25,7 @@ NOTE: It will take a few seconds before audio begins playing from Muse Recording
 
 ## 4\. Configure your Recording Settings in Muse
 
-<img width="898" alt="daw-settings" src="https://user-images.githubusercontent.com/7818811/192379187-723e652e-2825-40a2-8a9d-e07235488f11.png">
+![advanced-recording-settings](https://user-images.githubusercontent.com/7818811/192379187-723e652e-2825-40a2-8a9d-e07235488f11.png)
 
 
 The recording settings in Muse should match the project settings in your DAW so Muse can compensate for additional latency.
