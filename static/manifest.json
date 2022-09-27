@@ -83,22 +83,35 @@
             "categoryUrl": "feature-tutorials",
             "listing": [
                 {
-                    "title": "How to share audio from your computer",
+                    "title": "Share audio from your computer",
                     "url": "how-to-share-audio-from-your-computer",
                     "os": ["darwin", "win32"],
                     "versions": ["v1.3.4"]
                 },
                 {
-                    "title": "How to Share DAW Audio With the Muse Plugin",
+                    "title": "Share DAW audio with the Muse Plugin",
                     "url": "how-to-share-daw-audio-with-the-muse-plugin",
                     "os": ["darwin", "win32"],
                     "versions": ["v1.3.7"]
                 },
                 {
+                    "title": "Simple Recording Tutorial",
+                    "url": "how-to-record-audio-into-your-daw-simple",
+                    "os": ["darwin"],
+                    "versions": ["v1.4.13"]
+                },
+                {
+                    "title": "Advanced Recording Tutorial",
+                    "url": "how-to-record-audio-into-your-daw-advanced",
+                    "os": ["darwin"],
+                    "versions": ["v1.4.13"]
+                },
+                {
                     "title": "How to Record Audio into your DAW",
                     "url": "how-to-record-audio-into-your-daw",
                     "os": ["darwin"],
-                    "versions": ["v1.3.7"]
+                    "versions": ["v1.3.7"],
+                    "lastValidVersion": "v1.4.12"
                 },
                 {
                     "title": "Mac MIDI Setup",
