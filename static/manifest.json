@@ -101,6 +101,12 @@
                     "versions": ["v1.4.13"]
                 },
                 {
+                    "title": "Simple Recording Tutorial",
+                    "url": "how-to-record-audio-into-your-daw-simple-windows",
+                    "os": ["win32"],
+                    "versions": ["v1.4.14"]
+                },
+                {
                     "title": "Advanced Recording Tutorial",
                     "url": "how-to-record-audio-into-your-daw-advanced",
                     "os": ["darwin"],
@@ -123,7 +129,8 @@
                     "title": "How to Record Audio on Windows",
                     "url": "how-to-record-audio-on-windows",
                     "os": ["win32"],
-                    "versions": ["v1.4.1"]
+                    "versions": ["v1.4.1"],
+                    "lastValidVersion": "v1.4.13"
                 },
                 {
                     "title": "Windows MIDI Setup",
