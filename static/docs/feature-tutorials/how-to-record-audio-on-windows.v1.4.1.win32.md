@@ -12,7 +12,7 @@ You can access recent recordings or change the save location of the files by cli
 
 You can also change the recording settings in [Recording Settings](museapp://session-settings/recording)
 
-NOTE: Right now there is no way to record audio directly into your DAW on Windows. We are working to improve the app and you can expect to see this feature available soon.
+NOTE: Now you can record audio from Muse directly into your DAW. Update to the latest version of Muse to access this feature
 
 
 Need more help? [Contact us!](https://www.musesessions.co/contact)
