@@ -136,13 +136,7 @@
                     "title": "Windows MIDI Setup",
                     "url": "windows-midi-setup",
                     "os": ["win32"],
-                    "versions": ["v1.4.1"]
-                },
-                {
-                    "title": "Windows MIDI Setup",
-                    "url": "windows-midi-setup-update",
-                    "os": ["win32"],
-                    "versions": ["v1.5.0"]
+                    "versions": ["v1.4.1", "v1.5.0"]
                 },
                 {
                     "title": "Screen Sharing & Screen Control",
