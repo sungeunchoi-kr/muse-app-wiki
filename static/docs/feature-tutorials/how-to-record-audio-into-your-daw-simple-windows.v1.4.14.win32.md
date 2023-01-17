@@ -1,6 +1,4 @@
-By default, Muse saves recorded audio to a file on your computer. You can enable simple recording in [Recording Settings](museapp://session-settings/recording)
-<br>
-<br>
+By default, Muse saves recorded audio to a file on your computer. 
 
 When simple recording is enabled, audio recorded in Muse will pass through the selected recording device when you begin the recording process. There is no additional setup but there will be a delay in the recording. 
 
@@ -8,18 +6,11 @@ When simple recording is enabled, audio recorded in Muse will pass through the s
 <br>
 <br>
 
-## 1\. Enable Simple Recording
+## 1\. Enable Simple Recording and select the recording device
 
-![simple recording 1](https://user-images.githubusercontent.com/7818811/194968509-18b8450f-a419-4846-bbb4-00b28d6b6559.png)
-
+![simple recording windows](https://user-images.githubusercontent.com/7818811/212865095-2b3e4c82-42a9-47bb-9626-b7e8caf7cb53.png)
 
 <br>
-<br>
-
-## 2\. Select the recording device
-
-![simple recording 2](https://user-images.githubusercontent.com/7818811/194968712-1cbd3c6a-67a2-4676-9119-0478cf39aeac.png)
-
 <br>
 
 Select a device on your computer that will act as a virtual audio cable. The selected device will receive audio from Muse and can be passed to the DAW.
@@ -29,7 +20,7 @@ Select a device on your computer that will act as a virtual audio cable. The sel
 ## 3\. Set the recording device as the input in your DAW
 
 
-![simple recording 3](https://user-images.githubusercontent.com/7818811/194969442-eac9b8f7-1119-4221-acd9-249e4171ee55.png)
+![simple recording windows 1](https://user-images.githubusercontent.com/7818811/212865090-4d9e20f1-9e2f-485c-b1cc-2f10e9c6f8e7.png)
 
 
 
