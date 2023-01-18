@@ -10,7 +10,9 @@ To use MIDI with Muse and your DAW, you need to open your DAW BEFORE opening Mus
 
 <br>
 <br>
+
 Once you enable MIDI, you'll see that Muse provides different options depending on how you want to share MIDI.
+
 <br>
 <br>
 
@@ -21,7 +23,9 @@ Once you enable MIDI, you'll see that Muse provides different options depending 
 ## 3\. Select your MIDI input 
 
 <br>
+
 If you have a MIDI device and want to send MIDI to everyone in the session, select the MIDI Device you want to share as the MIDI input.
+
 <br>
 <br>
 
@@ -32,7 +36,9 @@ If you have a MIDI device and want to send MIDI to everyone in the session, sele
 ## 4\. Share MIDI with Muse and your DAW at the same time with MIDI Passthrough
 
 <br>
+
 You can use the provided Muse MIDI Passthrough device to share MIDI with Muse and your DAW at the same time. Muse MIDI Passthrough will receive MIDI from your selected MIDI input. To use your MIDI input with your DAW while sharing with Muse, choose Muse MIDI Passthrough as the MIDI Input in your DAW.
+
 <br>
 <br>
 
