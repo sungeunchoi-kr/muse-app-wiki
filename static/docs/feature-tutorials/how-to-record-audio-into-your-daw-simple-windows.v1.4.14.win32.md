@@ -17,7 +17,7 @@ Select a device on your computer that will act as a virtual audio cable. The sel
 
 <br>
 
-## 3\. Set the recording device as the input in your DAW
+## 2\. Set the recording device as the input in your DAW
 
 
 ![simple recording windows 1](https://user-images.githubusercontent.com/7818811/212865090-4d9e20f1-9e2f-485c-b1cc-2f10e9c6f8e7.png)
@@ -27,7 +27,7 @@ Select a device on your computer that will act as a virtual audio cable. The sel
 <br>
 <br>
 
-## 4\. Start recording the shared device in Muse
+## 3\. Start recording the shared device in Muse
 
 ![start-recording](https://user-images.githubusercontent.com/7818811/182964305-a1cb6c90-b6a8-481c-af1a-4319c0a4632b.gif)
 
@@ -35,7 +35,7 @@ Select a device on your computer that will act as a virtual audio cable. The sel
 <br>
 <br>
 
-## 5\. Start the recording process in your DAW
+## 4\. Start the recording process in your DAW
 
 ![record-in-daw](https://user-images.githubusercontent.com/7818811/182988698-4d430c4a-94c5-4202-b2b7-d2b89b95eeda.gif)
 

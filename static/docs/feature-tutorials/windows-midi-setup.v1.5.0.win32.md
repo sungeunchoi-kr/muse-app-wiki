@@ -31,6 +31,8 @@ If you have a MIDI device and want to send MIDI to everyone in the session, sele
 
 ![windows midi 2](https://user-images.githubusercontent.com/7818811/212876987-d3c91245-2208-4c59-a404-7fcf4ba71655.png)
 
+![midi-input](https://user-images.githubusercontent.com/7818811/216191130-5b11c2f8-8a1d-4255-b1ae-480f0ffcb7ce.png)
+
 <br>
 
 ## 4\. Share MIDI with Muse and your DAW at the same time with MIDI Passthrough
@@ -42,16 +44,21 @@ You can use the provided Muse MIDI Passthrough device to share MIDI with Muse an
 <br>
 <br>
 
+![midi-passthrough](https://user-images.githubusercontent.com/7818811/216191140-90abf6f4-800b-4426-aee6-a42c7b96088d.png)
+
 ![muse midi 4](https://user-images.githubusercontent.com/7818811/212877827-d2b96dae-77bb-4b84-a94e-6947879e84ec.png)
+
 <br>
 
-## 4\. Receive MIDI into your DAW from your collaborators
+## 5\. Receive MIDI into your DAW from your collaborators
 
 <br>
 
 If you want to receive MIDI from collaborators in Muse, you can use the provided Muse MIDI Output device as an input in your DAW. All MIDI coming from your collaborators in the Muse session will pass through Muse MIDI Output, so others in the session can play instruments in your DAW.
 
 <br>
+
+![midi-output](https://user-images.githubusercontent.com/7818811/216191136-752b8584-d953-4f05-a25f-f8b41f3f0bc1.png)
 
 ![windows midi 3](https://user-images.githubusercontent.com/7818811/212877849-2611c390-355a-4805-8339-3048d44039d6.png)
 
