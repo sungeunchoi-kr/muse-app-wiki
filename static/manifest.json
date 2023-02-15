@@ -95,6 +95,11 @@
                     "versions": ["v1.3.7"]
                 },
                 {
+                    "title": "Recording Plugin Tutorial",
+                    "url": "how-to-record-audio-into-your-daw-plugin",
+                    "versions": ["v1.5.1"]
+                },
+                {
                     "title": "Simple Recording Tutorial",
                     "url": "how-to-record-audio-into-your-daw-simple",
                     "os": ["darwin"],
